@@ -1,5 +1,7 @@
 # Python Demo
-A demonstration of the Python material for [EE491F](https://ee491f.github.io/course-material/ "EE491F Course Webpage")
+A demonstration of the Python material for [EE491F](https://ee491f.github.io/course-material/#python
+ "EE491F Course Webpage").  
+Accompanying Video: [https://youtu.be/qO_EJgAU4vw](https://youtu.be/qO_EJgAU4vw "Getting Started with Python Video")
 
 Outline
 -------
